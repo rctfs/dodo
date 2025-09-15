@@ -1,0 +1,27 @@
+.full-screen-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    position: relative; /* scroll normally */
+    z-index: 10;        /* above the gallery */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200vh;  /* make sure there is enough scrollable space */
+    pointer-events: none;
+}
+
+
+.scroll-reveal-text {
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+    padding: 20px 40px;
+    border-radius: 10px;
+}
