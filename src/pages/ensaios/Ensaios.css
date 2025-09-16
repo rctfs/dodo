@@ -1,27 +1,77 @@
+.background {
+    position: relative;
+    z-index: 10;
+    min-height: 100vh; /* at least 1 viewport */
+    background-color: black;
+    animation: fadeToBlue 3s ease forwards;
+}
+
+
+@keyframes fadeToBlue {
+    from {
+        background-color: black;
+    }
+    to {
+        background-color: #006699;
+    }
+}
+
 .full-screen-section {
     height: 100vh;
+    width: 100vw;
+    position: relative;       /* for absolute positioning */
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;   /* centers text */
+    align-items: center;       /* centers text vertically */
+    overflow: hidden;
+    padding: 0;                /* remove any padding */
+}
+.background, .full-screen-section {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
 }
 
-.background {
-    position: relative; /* scroll normally */
-    z-index: 10;        /* above the gallery */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    min-height: 200vh;  /* make sure there is enough scrollable space */
-    pointer-events: none;
+.rachel-img,.joey-img,.bigben-img{
+    position: absolute;
+    top: 50%;
+    z-index: 0;
+    height: 60%;
+    transform: translateY(-50%);
+
 }
 
+.rachel-img {
+    left: 0;
+}
+.joey-img {
+    right: -350px;
+}
 
-.scroll-reveal-text {
-    font-size: 100px;
+.bigben-img{
+    left: 100px;
+    height: 100%;
+}
+
+.fullscreen-gif {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0;
+}
+.full-screen-section div p {
+    position: relative;
+    z-index: 100;
+    font-size: 70px;
     text-align: center;
     color: white;
-    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
     padding: 20px 40px;
     border-radius: 10px;
 }
+.formacoes div p{
+    font-size: 50px;
+    padding: 0px;
+}
+

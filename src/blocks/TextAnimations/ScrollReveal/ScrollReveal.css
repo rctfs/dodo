@@ -3,8 +3,16 @@
 */
 
 .scroll-reveal {
-  margin: 20px 0;
+  background: transparent; /* remove grey background */
+  margin: 0;
+  padding: 0;
 }
+.scroll-reveal p {
+  margin: 0;
+  padding: 0;
+  background: transparent; /* in case p also has bg */
+}
+
 
 .scroll-reveal-text {
   font-size: clamp(1.6rem, 4vw, 3rem);

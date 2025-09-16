@@ -33,8 +33,8 @@ export default function TimelineItemWithPopper({ oppositeText, contentText, popp
                 </TimelineOppositeContent>
 
                 <TimelineSeparator>
-                    <TimelineDot />
-                    <TimelineConnector />
+                    <TimelineDot sx={{ backgroundColor: "white" }} />
+                    <TimelineConnector sx={{ backgroundColor: "white" }} />
                 </TimelineSeparator>
 
                 <TimelineContent>{contentText}</TimelineContent>
