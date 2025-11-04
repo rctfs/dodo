@@ -75,7 +75,7 @@ export default function Ensaios() {
                                         to={111}
                                     />
                                     {" "}vezes</p>
-                                <img src="/gatoFedorento/lopesDaSilva.gif" className="fullscreen-gif"/>
+                                <img src="https://i.imgur.com/emP4FZB.gif" className="fullscreen-gif"/>
                             </div>
                         </div>
                         <div className="full-screen-section">
@@ -86,7 +86,7 @@ export default function Ensaios() {
                                         to={146}
                                     />
                                     {" "}vezes</p>
-                                <img src="/gatoFedorento/fonseca.gif" className="fullscreen-gif"/>
+                                <img src="https://i.imgur.com/COQQsaW.gif" className="fullscreen-gif"/>
                             </div>
                         </div>
                         <div className="full-screen-section">
@@ -98,7 +98,7 @@ export default function Ensaios() {
                                     />
                                     {" "}vezes</p>
                             </div>
-                            <img src="/gatoFedorento/meireles.gif" className="fullscreen-gif"/>
+                            <img src="https://i.imgur.com/XoTZVTG.gif" className="fullscreen-gif"/>
                         </div>
                         <div className="full-screen-section">
                             <div>
@@ -108,7 +108,7 @@ export default function Ensaios() {
                                         to={201}
                                     />
                                     {" "}vezes</p>
-                                <img src="/gatoFedorento/barbosa.gif" className="fullscreen-gif"/>
+                                <img src="https://i.imgur.com/ImU0Lrz.gif" className="fullscreen-gif"/>
 
                             </div>
                         </div>
