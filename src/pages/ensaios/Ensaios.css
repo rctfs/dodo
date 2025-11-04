@@ -1,7 +1,7 @@
 .background {
     position: relative;
     z-index: 10;
-    min-height: 100vh; /* at least 1 viewport */
+    min-height: 100vh;
     background-color: black;
     animation: fadeToBlue 3s ease forwards;
 }
@@ -19,12 +19,12 @@
 .full-screen-section {
     height: 100vh;
     width: 100vw;
-    position: relative;       /* for absolute positioning */
+    position: relative;
     display: flex;
-    justify-content: center;   /* centers text */
-    align-items: center;       /* centers text vertically */
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
-    padding: 0;                /* remove any padding */
+    padding: 0;
 }
 .background, .full-screen-section {
     width: 100vw;

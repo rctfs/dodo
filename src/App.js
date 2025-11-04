@@ -4,9 +4,10 @@ import Home from "./pages/home/Home";
 import { ThemeProvider } from "@mui/material/styles";
 import Cronologia from "./pages/cronologia/Cronologia";
 import theme from "./Theme";
-import Festivais from "./pages/festivais/Festivais";
 import Direcao from "./pages/direcao/Direcao";
 import Ensaios from "./pages/ensaios/Ensaios";
+import Testemunhos from "./pages/testemunhos/Testemunhos";
+import FotosSoltas from "./pages/fotosSoltas/FotosSoltas";
 
 function App() {
     return (
@@ -15,9 +16,10 @@ function App() {
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/cronologia" element={<Cronologia />} />
-                    <Route path="/festivais" element={<Festivais />} />
                     <Route path="/direcao" element={<Direcao />} />
                     <Route path="/ensaios" element={<Ensaios />} />
+                    <Route path="/testemunhos" element={<Testemunhos />} />
+                    <Route path="/fotosSoltas" element={<FotosSoltas />} />
                 </Routes>
             </Router>
         </ThemeProvider>

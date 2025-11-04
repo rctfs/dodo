@@ -19,7 +19,7 @@ export default function Ensaios() {
 
     return (
         <div>
-            <div className="background">
+            <div>
                 <Fade in={checked} timeout={1500}>
                     <div>
                         <div className="full-screen-section">

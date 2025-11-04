@@ -11,7 +11,7 @@ import Popper from "@mui/material/Popper";
 import Typography from "@mui/material/Typography";
 import Paper from "@mui/material/Paper";
 
-export default function TimelineItemWithPopper({ oppositeText, contentText, popperText }) {
+export default function TimelineItemWithoutConnector({ oppositeText, contentText, popperText }) {
     const [open, setOpen] = useState(false);
     const anchorRef = useRef(null);
 
@@ -34,7 +34,6 @@ export default function TimelineItemWithPopper({ oppositeText, contentText, popp
 
                 <TimelineSeparator>
                     <TimelineDot sx={{ backgroundColor: "white" }} />
-                    <TimelineConnector sx={{ backgroundColor: "white" }} />
                 </TimelineSeparator>
 
                 <TimelineContent>{contentText}</TimelineContent>

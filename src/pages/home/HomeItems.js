@@ -1,39 +1,76 @@
 const items = [
     {
         id: "1",
-        img: "/HomePagePhotos/estudio.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283798/estudio_y0dhet.jpg",
         height: 750,
         position: "50% 10%",
     },
     {
+        id: "12",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283797/atuacao_ie59pa.jpg",
+        height: 900,
+        position: "50% 40%",
+        title: "Festivais",
+        url: "https://dodofestival.netlify.app/",
+        titlePosition: {
+            top: "60%",
+            left: "50%",
+            transform: "translate(-50%, -50%)",
+            textAlign: "center",
+        }
+    },
+    {
+        id: "8",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283795/arrumacoes_ftja6m.jpg",
+        height: 300,
+        position: "50% 40%",
+        title: "Ensaios",
+        url: "/ensaios",
+        titlePosition: {
+            top: "60%",
+            left: "50%",
+            transform: "translate(-50%, -50%)",
+            textAlign: "center",
+        }
+    },
+    {
         id: "2",
-        img: "/HomePagePhotos/de.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283794/arraialmultidao_lqjlw2.jpg",
         height: 250,
-        position: "top",
+        position: "bottom",
     },
     {
         id: "3",
-        img: "/HomePagePhotos/grupo.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283798/grupo_qk99ur.jpg",
         height: 652,
     },
     {
         id: "4",
-        img: "/HomePagePhotos/lua.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283817/lua_umqw1c.jpg",
         height: 300,
         position: "50% 10%",
     },
     {
         id: "5",
-        img: "/HomePagePhotos/retiro.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283818/retiro_jw3dy5.jpg",
         height: 652,
         position: "50% 30%",
+        url:"/fotosSoltas",
+        title: "Recordações",
+        titlePosition: {
+            top: "50%",
+            left: "50%",
+            transform: "translate(-50%, -50%)",
+            textAlign: "center",
+        }
     },
     {
         id: "6",
-        img: "/HomePagePhotos/afilhados.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283793/afilhados_ftjbu7.jpg",
         height: 600,
         position: "50% 30%",
-        title: "Afilhados",
+        url:"/testemunhos",
+        title: "In Vino Veritas",
         titlePosition: {
             top: "50%",
             left: "50%",
@@ -43,7 +80,7 @@ const items = [
     },
     {
         id: "7",
-        img: "/HomePagePhotos/arraial.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283794/arraial_aodzhp.jpg",
         height: 652,
         position: "50% 30%",
         url: "/direcao",
@@ -70,65 +107,42 @@ const items = [
             textAlign: "center",
         }
     },
+
     {
         id: "11",
-        img: "/HomePagePhotos/arraialmultidao.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283794/arraialmultidao_lqjlw2.jpg",
         height: 600,
         position: "50% 40%",
     },
+
     {
         id: "9",
-        img: "/HomePagePhotos/visi.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283818/visi_xrjxee.jpg",
         height: 450,
         position: "50% 40%",
     },
-    {
-        id: "12",
-        img: "/HomePagePhotos/atuacao.jpg",
-        height: 900,
-        position: "50% 40%",
-        title: "Festivais",
-        url: "/festivais",
-        titlePosition: {
-            top: "60%",
-            left: "50%",
-            transform: "translate(-50%, -50%)",
-            textAlign: "center",
-        }
-    },
-    {
-        id: "8",
-        img: "/HomePagePhotos/arrumacoes.jpg",
-        height: 300,
-        position: "50% 40%",
-        title: "Ensaios",
-        url: "/ensaios",
-        titlePosition: {
-            top: "60%",
-            left: "50%",
-            transform: "translate(-50%, -50%)",
-            textAlign: "center",
-        }
-    },
+
+
     {
         id: "13",
-        img: "/HomePagePhotos/juanita.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283815/juanita_fp0eip.jpg",
         height: 550,
     },
     {
         id: "14",
-        img: "/HomePagePhotos/foto.jpg",
-        height: 550,
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283800/foto_m8mbwq.jpg",
+        height: 500,
         position: "top"
     },
+
     {
         id: "15",
-        img: "/HomePagePhotos/arraialgrupo2.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283804/IMG_0228_svlljc.jpg",
         height: 500,
     },
     {
         id: "16",
-        img: "/HomePagePhotos/subida.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283815/subida_vhbucq.jpg",
         height: 500,
     },
 

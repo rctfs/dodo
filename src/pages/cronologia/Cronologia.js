@@ -1,6 +1,7 @@
 import Timeline from '@mui/lab/Timeline';
 import './Cronologia.css';
 import TimelineItemWithPopper from "./TimelineItemWithPopper";
+import TimelineItemWithoutConnector from "./TimelineItemWithoutConnector";
 import Slide from '@mui/material/Slide';
 import React, {useState, useEffect} from 'react';
 import Theme from "../../Theme";
@@ -22,63 +23,141 @@ function Cronologia() {
                    easing={{enter: Theme.transitions.easing.easeOut}}
                    timeout={1500}>
                 <div>
+                    <h1 className="ano">Aqui vais ter de me ajudar um bocadinho a completar isto</h1>
                     <h1 className="ano">2015</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
                             oppositeText="Outubro"
                             contentText="Primeiro Ensaio"
-                            // popperText="Breakfast time"
                         />
                         <TimelineItemWithPopper
-                            oppositeText="7 de Dezembro 205"
+                            oppositeText="7 de Dezembro 2015"
                             contentText="Primeiro Aniversário da TAISCTE"
-                            // popperText="Breakfast time"
                         />
                     </Timeline>
                     <h1 className="ano">2016</h1>
                     <Timeline position="left">
-                    <TimelineItemWithPopper
-                        oppositeText="19 Fevereiro "
-                        contentText="Primeiro Retiro"
-                        popperText="Retiro de Estremoz"
-                    />
-                    <TimelineItemWithPopper
-                        oppositeText="4 Novembro"
-                        contentText="Primeiro Festival"
-                        popperText="II Vielas Vadias"
-                    />
+                        <TimelineItemWithPopper
+                            oppositeText="19 Fevereiro "
+                            contentText="Primeiro Retiro"
+                            popperText="Retiro de Estremoz"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="4 Novembro"
+                            contentText="Primeiro Festival"
+                            popperText="II Vielas Vadias"
+                        />
                     </Timeline>
                     <h1 className="ano">2017</h1>
                     <Timeline position="left">
-                    <TimelineItemWithPopper
-                        oppositeText="Março"
-                        contentText="Pedido de Apradinhamento"
-                        // popperText="Nap time"
-                    />
-                    <TimelineItemWithPopper
-                        oppositeText="1 Abril"
-                        contentText="Subida a Palco"
-                        popperText="VIII Lisboa Eterna"
-                    />
-                    <TimelineItemWithPopper
-                        oppositeText="8 Dezembro"
-                        contentText="Primeira eleição para a direção"
-                        popperText="Vice-Maestrina"
-                    />
+                        <TimelineItemWithPopper
+                            oppositeText="Março"
+                            contentText="Pedido de Apadrinhamento"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="1 Abril"
+                            contentText="Subida a Palco"
+                            popperText="VIII Lisboa Eterna"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="8 Dezembro"
+                            contentText="Primeira eleição para a direção"
+                            popperText="Vice-Maestrina"
+                        />
                     </Timeline>
                     <h1 className="ano">2018</h1>
                     <Timeline position="left">
-                    <TimelineItemWithPopper
-                        oppositeText="3/1/2020"
-                        contentText="Sleep"
-                        popperText="Nap time"
-                    />
-                </Timeline>
+                        <TimelineItemWithPopper
+                            oppositeText="3/1/2020"
+                            contentText="Sleep"
+                            popperText="Nap time"
+                        />
+                    </Timeline>
+                    <h1 className="ano">2019</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="29 de Junho"
+                            contentText="Passagem a Tuno"
+                            popperText="Jantar com a Fortuna"
+                        />
+                    </Timeline>
+                    <h1 className="ano">2020</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="3/1/2020"
+                            contentText="Sleep"
+                            popperText="Nap time"
+                        />
+                    </Timeline>
+                    <h1 className="ano">2021</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="29 de Junho"
+                            contentText="Passagem a Veterana"
+                            popperText="Agora sim!"
+                        />
+                    </Timeline>
+                    <h1 className="ano">2022</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="19 de Fevereiro"
+                            contentText="Pedido de Amadrinhamento do Gadget"
+                            popperText="VIII Badaladas"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="8 de Abril"
+                            contentText="Pedido de Amadrinhamento do ÀBrás"
+                            popperText="II Centaurus"
+                        />
+                    </Timeline>
+                    <h1 className="ano">2023</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="3/1/2020"
+                            contentText="Sleep"
+                            popperText="Nap time"
+                        />
+                    </Timeline>
+                    <h1 className="ano">2024</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="16 de Fevereiro"
+                            contentText="Pedido de Amadrinhamento do Visigodo"
+                            popperText="XXII Fortuna"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="26 de Fevereiro"
+                            contentText="Mítico CT onde foste exposta como má madrinha"
+                            popperText='“Ninguém me explicou como é que isto funciona” — ÀBrás'
+
+                        />
+                    </Timeline>
+                    <h1 className="ano">2025</h1>
+                    <Timeline position="left">
+                        <TimelineItemWithPopper
+                            oppositeText="13 de Fevereiro"
+                            contentText="Pedido de Amadrinhamento do Rémy"
+                            popperText="VII Noites de Bruma"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="12 de Março"
+                            contentText="Pedido de Amadrinhamento do Borracha"
+                            popperText="II Churasco TAISCTE"
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="20 de Junho"
+                            contentText="Primeiras novas passagens a Tuno"
+                        />
+                        <TimelineItemWithoutConnector
+                            oppositeText="7 de Dezembro"
+                            contentText="Passagem a Cota-Veterana"
+                        />
+                    </Timeline>
+                </div>
+            </Slide>
         </div>
-</Slide>
-</div>
-)
-    ;
+    )
+        ;
 }
 
 export default Cronologia;
