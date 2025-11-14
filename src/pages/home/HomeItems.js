@@ -1,7 +1,7 @@
 const items = [
     {
         id: "1",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283798/estudio_y0dhet.jpg",
+        img: "https://pub-6dca82a269464daaaa79039187456840.r2.dev/fotos/estudiododo.jpg",
         height: 750,
         position: "50% 10%",
     },
