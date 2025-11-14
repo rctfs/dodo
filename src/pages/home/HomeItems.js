@@ -1,13 +1,13 @@
 const items = [
     {
         id: "1",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283798/estudio_y0dhet.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283798/estudio_y0dhet.jpg",
         height: 750,
         position: "50% 10%",
     },
     {
         id: "12",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283797/atuacao_ie59pa.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283797/atuacao_ie59pa.jpg",
         height: 900,
         position: "50% 40%",
         title: "Festivais",
@@ -17,11 +17,11 @@ const items = [
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
-        }
+        },
     },
     {
         id: "8",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283795/arrumacoes_ftja6m.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283795/arrumacoes_ftja6m.jpg",
         height: 300,
         position: "50% 40%",
         title: "Ensaios",
@@ -31,56 +31,56 @@ const items = [
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
-        }
+        },
     },
     {
         id: "2",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283794/arraialmultidao_lqjlw2.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283794/arraialmultidao_lqjlw2.jpg",
         height: 250,
         position: "bottom",
     },
     {
         id: "3",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283798/grupo_qk99ur.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283798/grupo_qk99ur.jpg",
         height: 652,
     },
     {
         id: "4",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283817/lua_umqw1c.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283817/lua_umqw1c.jpg",
         height: 300,
         position: "50% 10%",
     },
     {
         id: "5",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283818/retiro_jw3dy5.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283818/retiro_jw3dy5.jpg",
         height: 652,
         position: "50% 30%",
-        url:"/fotosSoltas",
+        url: "/fotosSoltas",
         title: "Recordações",
         titlePosition: {
             top: "50%",
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
-        }
+        },
     },
     {
         id: "6",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283793/afilhados_ftjbu7.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283793/afilhados_ftjbu7.jpg",
         height: 600,
         position: "50% 30%",
-        url:"/testemunhos",
+        url: "/testemunhos",
         title: "In Vino Veritas",
         titlePosition: {
             top: "50%",
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
-        }
+        },
     },
     {
         id: "7",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283794/arraial_aodzhp.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283794/arraial_aodzhp.jpg",
         height: 652,
         position: "50% 30%",
         url: "/direcao",
@@ -90,11 +90,12 @@ const items = [
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
-        }
+        },
     },
 
     {
         id: "10",
+        // still using your local file — consider uploading this to Cloudinary too
         img: "/HomePagePhotos/atuacao2.jpg",
         height: 550,
         position: "50% 40%",
@@ -105,47 +106,45 @@ const items = [
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
-        }
+        },
     },
 
     {
         id: "11",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283794/arraialmultidao_lqjlw2.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283794/arraialmultidao_lqjlw2.jpg",
         height: 600,
         position: "50% 40%",
     },
 
     {
         id: "9",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283818/visi_xrjxee.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283818/visi_xrjxee.jpg",
         height: 450,
         position: "50% 40%",
     },
 
-
     {
         id: "13",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283815/juanita_fp0eip.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283815/juanita_fp0eip.jpg",
         height: 550,
     },
     {
         id: "14",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283800/foto_m8mbwq.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283800/foto_m8mbwq.jpg",
         height: 500,
-        position: "top"
+        position: "top",
     },
 
     {
         id: "15",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283804/IMG_0228_svlljc.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283804/IMG_0228_svlljc.jpg",
         height: 500,
     },
     {
         id: "16",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283815/subida_vhbucq.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283815/subida_vhbucq.jpg",
         height: 500,
     },
-
 ];
 
 export default items;
