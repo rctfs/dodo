@@ -17,7 +17,8 @@
 }
 
 .full-screen-section {
-    height: 100vh;
+    min-height: 100vh;
+    height: auto;
     width: 100vw;
     position: relative;
     display: flex;
@@ -25,12 +26,11 @@
     align-items: center;
     overflow: hidden;
     padding: 0;
-}
-.background, .full-screen-section {
-    width: 100vw;
+    background-color: black;
+    animation: fadeToBlue 3s ease forwards;
     margin: 0;
-    padding: 0;
 }
+
 
 .rachel-img,.joey-img,.bigben-img{
     position: absolute;

@@ -54,7 +54,7 @@ export default function Ensaios() {
                                     {" "}minutos</p>
                             </div>
                         </div>
-                        <div className="full-screen-section" style={{backgroundColor: "#453d66"}}>
+                        <div className="full-screen-section" style={{backgroundColor: "#453d66", animation: "none"}}>
                             <div>
                                 <p>Daria para ver Friends quase 7 vezes!</p>
                                 <img src="/rachelFriends.png" className="rachel-img"/>
@@ -133,7 +133,6 @@ export default function Ensaios() {
                                 <p>Atualização Científica e Técnica em Segurança e Higiene do Trabalho  (100 horas)</p>
                                 <p>Auricoloterapia para animais  (8 horas)</p>
                                 <p>E sobrava-te uma hora para descansar!</p>
-
                             </div>
                         </div>
                         <div className="full-screen-section">
