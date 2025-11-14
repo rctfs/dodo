@@ -95,8 +95,7 @@ const items = [
 
     {
         id: "10",
-        // still using your local file — consider uploading this to Cloudinary too
-        img: "/HomePagePhotos/atuacao2.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763083214/atuacao2-min_vuobjk.jpg",
         height: 550,
         position: "50% 40%",
         title: "Cronologia",
