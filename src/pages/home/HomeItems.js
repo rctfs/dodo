@@ -1,7 +1,7 @@
 const items = [
     {
         id: "1",
-        img: "https://pub-6dca82a269464daaaa79039187456840.r2.dev/fotos/estudiododo.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283798/estudio_y0dhet.jpg",
         height: 750,
         position: "50% 10%",
     },
@@ -76,6 +76,7 @@ const items = [
             left: "50%",
             transform: "translate(-50%, -50%)",
             textAlign: "center",
+            lineHeight: "17px",
         },
     },
     {
