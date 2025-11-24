@@ -1,5 +1,5 @@
 import Masonry from "../../blocks/Components/Masonry/Masonry";
-import items from "./fotositems";
+import fotos from "./fotositems";
 import React from "react";
 
 function FotosSoltas() {
@@ -7,7 +7,7 @@ function FotosSoltas() {
         <div className="rectangle">
             <div style={{position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', zIndex: 0}}>
                 <Masonry
-                    items={items}
+                    items={fotos}
                     ease="elastic.out"
                     duration={0.15}
                     stagger={0.25}

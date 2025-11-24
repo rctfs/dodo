@@ -34,7 +34,7 @@ export default function Testemunhos() {
             </div>
             <div className="half-screen-section">
                 <h3>Penso em alegria, ecstasy, estar sempre a curtir ela é sempre alto astral, vou ter muitas saudades dela tenho muita pena dela ir embora e tenho pena dos novos projetos não a conhecerem como nós tivemos oportunidade de a conhecer</h3>
-                <p>Remy</p>
+                <p>Butija</p>
             </div>
         </div>
     );

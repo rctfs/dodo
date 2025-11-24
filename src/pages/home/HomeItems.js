@@ -1,13 +1,13 @@
 const items = [
     {
         id: "1",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1762283798/estudio_y0dhet.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941245/foto_hp_8.jpg",
         height: 750,
         position: "50% 10%",
     },
     {
         id: "12",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283797/atuacao_ie59pa.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941243/foto_hp_7.jpg",
         height: 900,
         position: "50% 40%",
         title: "Festivais",
@@ -21,7 +21,7 @@ const items = [
     },
     {
         id: "8",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283795/arrumacoes_ftja6m.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941242/foto_hp_6.jpg",
         height: 300,
         position: "50% 40%",
         title: "Ensaios",
@@ -35,24 +35,24 @@ const items = [
     },
     {
         id: "2",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283794/arraialmultidao_lqjlw2.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941241/foto_hp_5.jpg",
         height: 250,
         position: "bottom",
     },
     {
         id: "3",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283798/grupo_qk99ur.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941246/foto_hp_10.jpg",
         height: 652,
     },
     {
         id: "4",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283817/lua_umqw1c.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941704/foto_hp_13.jpg",
         height: 300,
         position: "50% 10%",
     },
     {
         id: "5",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283818/retiro_jw3dy5.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941513/foto_hp_12.jpg",
         height: 652,
         position: "50% 30%",
         url: "/fotosSoltas",
@@ -66,7 +66,7 @@ const items = [
     },
     {
         id: "6",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283793/afilhados_ftjbu7.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941238/foto_hp_1.jpg",
         height: 600,
         position: "50% 30%",
         url: "/testemunhos",
@@ -81,7 +81,7 @@ const items = [
     },
     {
         id: "7",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283794/arraial_aodzhp.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941240/foto_hp_4.jpg",
         height: 652,
         position: "50% 30%",
         url: "/direcao",
@@ -96,7 +96,7 @@ const items = [
 
     {
         id: "10",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1763083214/atuacao2-min_vuobjk.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941802/foto_hp_14.jpg",
         height: 550,
         position: "50% 40%",
         title: "Cronologia",
@@ -111,38 +111,32 @@ const items = [
 
     {
         id: "11",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283794/arraialmultidao_lqjlw2.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941949/foto_hp_15.jpg",
         height: 600,
         position: "50% 40%",
     },
 
     {
         id: "9",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283818/visi_xrjxee.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941239/foto_hp_3.jpg",
         height: 450,
         position: "50% 40%",
     },
 
     {
         id: "13",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283815/juanita_fp0eip.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941248/foto_hp_11.jpg",
         height: 550,
     },
     {
         id: "14",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283800/foto_m8mbwq.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941246/foto_hp_9.jpg",
         height: 500,
         position: "top",
     },
-
-    {
-        id: "15",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283804/IMG_0228_svlljc.jpg",
-        height: 500,
-    },
     {
         id: "16",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1762283815/subida_vhbucq.jpg",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763941238/foto_hp_2.jpg",
         height: 500,
     },
 ];
