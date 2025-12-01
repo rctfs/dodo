@@ -639,8 +639,8 @@ const fotositems = [
     {
         id: "93",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_93.jpg",
-        height: 423,
-        position: "50% 10%",
+        height: 700,
+        position: "50% 70%",
         bw: false
     },
     {
@@ -765,7 +765,7 @@ const fotositems = [
     {
         id: "111",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_111.jpg",
-        height: 799,
+        height: 400,
         position: "50% 10%",
         bw: false
     },
@@ -849,7 +849,7 @@ const fotositems = [
     {
         id: "123",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_123.jpg",
-        height: 609,
+        height: 450,
         position: "50% 10%",
         bw: false
     },
@@ -877,14 +877,14 @@ const fotositems = [
     {
         id: "127",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_127.jpg",
-        height: 712,
+        height: 550,
         position: "50% 10%",
         bw: false
     },
     {
         id: "128",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_128.jpg",
-        height: 385,
+        height: 750,
         position: "50% 10%",
         bw: false
     },
@@ -898,15 +898,8 @@ const fotositems = [
     {
         id: "131",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_131.jpg",
-        height: 774,
-        position: "50% 10%",
-        bw: false
-    },
-    {
-        id: "132",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_132.jpg",
-        height: 361,
-        position: "50% 10%",
+        height: 900,
+        position: "50% 100%",
         bw: false
     },
     {
@@ -917,20 +910,117 @@ const fotositems = [
         bw: false
     },
     {
-        id: "134",
-        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_134.jpg",
-        height: 447,
-        position: "50% 10%",
-        bw: false
-    },
-    {
         id: "135",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_135.jpg",
         height: 811,
         position: "50% 10%",
         bw: false
+    },
+    {
+        id: "136",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_136.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "137",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_137.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "138",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_138.jpg",
+        height: 400,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "139",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_139.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "140",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_140.jpg",
+        height: 250,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "141",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_141.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "142",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_142.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "143",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_143.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "144",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_144.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "145",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_145.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "146",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_146.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "147",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_147.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "148",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_148.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "149",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_149.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
+    },
+    {
+        id: "149",
+        img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1764626741/foto_geral_150.jpg",
+        height: 811,
+        position: "50% 10%",
+        bw: false
     }
-
 ];
 
 

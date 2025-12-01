@@ -123,7 +123,7 @@ export default function Testemunhos() {
                     dela.
                     É a mesma pessoa que consegue na mesma música, experimentar harmonias ou fazer o quadradinho ao
                     ritmo da mesma, principalmente nos “pa pa’s” da Sarandillera.</h3>
-                <p>Koppus</p>
+                <p>Koppus (Sóbrio)</p>
             </div>
 
             <div className="half-screen-section">
