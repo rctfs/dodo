@@ -68,9 +68,9 @@ function Cronologia() {
                     <h1 className="ano">2018</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
-                            oppositeText="3/1/2020"
-                            contentText="Sleep"
-                            popperText="Nap time"
+                            oppositeText="1/1/2018"
+                            contentText="Primeira direção"
+                            popperText=""
                         />
                     </Timeline>
                     <h1 className="ano">2019</h1>
@@ -84,9 +84,9 @@ function Cronologia() {
                     <h1 className="ano">2020</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
-                            oppositeText="3/1/2020"
-                            contentText="Sleep"
-                            popperText="Nap time"
+                            oppositeText="Maio 2020"
+                            contentText="Primeiro Magistério"
+                            popperText=""
                         />
                     </Timeline>
                     <h1 className="ano">2021</h1>
@@ -113,9 +113,9 @@ function Cronologia() {
                     <h1 className="ano">2023</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
-                            oppositeText="3/1/2020"
-                            contentText="Sleep"
-                            popperText="Nap time"
+                            oppositeText=""
+                            contentText="Não me estou a lembrar de nada desculpa :("
+                            popperText=""
                         />
                     </Timeline>
                     <h1 className="ano">2024</h1>

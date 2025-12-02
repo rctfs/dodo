@@ -103,6 +103,11 @@ export default function Testemunhos() {
                 <p>Alentejana (Sóbria)</p>
             </div>
             <div className="half-screen-section">
+                <h3>É, tou eu a fazer isto e ainda tenho de meter uma coisa minha aqui no meio. Sabes que te adoro
+                    pronto continua a ler</h3>
+                <p>Fanã</p>
+            </div>
+            <div className="half-screen-section">
                 <h3> para mim é mesmo muito difícil descrever esse tipo de coisas em relação a uma pessoa porque nunca
                     me soube exprimir muito bem mas, vem me a cabeça uma pessoa que brilha sem tentar brilhar. Penso em
                     conforto e em alguém que me inspira por ser um “role model” que supera as suas inseguranças. Penso
@@ -153,7 +158,8 @@ export default function Testemunhos() {
                 <h3>Tuna sem Dodô? What the fuck?É que eu sinto que tu és tipo, uma mãe galinha. Só que discreta, tu
                     cuidas da tuna assim como se fosse a tua bebé com muito carinho, com muito amor, a proteger, mas
                     atrofias também com o pessoal e acho que fazes muito bem, fazes lembrar aquele vine (procede a
-                    descrever este <a href="https://www.youtube.com/shorts/VRt16d94aR4">vine</a>). Tu atrofias com o pessoal e atrofias muito bem, agora quem é que vai atrofiar
+                    descrever este <a href="https://www.youtube.com/shorts/VRt16d94aR4">vine</a>). Tu atrofias com o
+                    pessoal e atrofias muito bem, agora quem é que vai atrofiar
                     com o pessoal nos copos?Quem é que vai ser o last man standing? Vai ter de ser a tua linhagem? Um
                     deles não se aguenta em pé, o outro começa às cabeçadas. Vá o remy até que aguenta mas pah o
                     Borracha e o Visi ainda são os bacanos que aguentam mais pah. Agora como é que o pessoal vai seguir

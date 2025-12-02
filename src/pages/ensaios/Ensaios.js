@@ -27,7 +27,7 @@ export default function Ensaios() {
                                 <p>Tu foste a{" "}
                                     <CountUp
                                         from={0}
-                                        to={292}
+                                        to={304}
                                         delay={1}/>
                                     {" "}ensaios</p>
                             </div>
@@ -37,7 +37,7 @@ export default function Ensaios() {
                                 <p>Ou seja{" "}
                                     <CountUp
                                         from={0}
-                                        to={584}
+                                        to={608}
                                     />
                                     {" "}horas</p>
                             </div>
@@ -49,7 +49,7 @@ export default function Ensaios() {
                                 <p>Ou então{" "}
                                     <CountUp
                                         from={0}
-                                        to={3540}
+                                        to={36480}
                                     />
                                     {" "}minutos</p>
                             </div>
@@ -72,7 +72,7 @@ export default function Ensaios() {
                                 <p>Daria para ver a Série Lopes da Silva{" "}
                                     <CountUp
                                         from={0}
-                                        to={111}
+                                        to={115}
                                     />
                                     {" "}vezes</p>
                                 <img src="https://i.imgur.com/emP4FZB.gif" className="fullscreen-gif"/>
@@ -83,7 +83,7 @@ export default function Ensaios() {
                                 <p>Ou então a Série Fonseca{" "}
                                     <CountUp
                                         from={0}
-                                        to={146}
+                                        to={152}
                                     />
                                     {" "}vezes</p>
                                 <img src="https://i.imgur.com/COQQsaW.gif" className="fullscreen-gif"/>
@@ -94,7 +94,7 @@ export default function Ensaios() {
                                 <p>A Série Meireles poderia ser vista{" "}
                                     <CountUp
                                         from={0}
-                                        to={191}
+                                        to={198}
                                     />
                                     {" "}vezes</p>
                             </div>
@@ -105,7 +105,7 @@ export default function Ensaios() {
                                 <p>E a série Barbosa{" "}
                                     <CountUp
                                         from={0}
-                                        to={201}
+                                        to={209}
                                     />
                                     {" "}vezes</p>
                                 <img src="https://i.imgur.com/ImU0Lrz.gif" className="fullscreen-gif"/>
@@ -117,7 +117,7 @@ export default function Ensaios() {
                                 <p>Ou até podias ter ficado em casa a ver o Totoro{" "}
                                     <CountUp
                                         from={0}
-                                        to={407}
+                                        to={424}
                                     />
                                     {" "}vezes</p>
                                 <img src="/totoro.gif" className="fullscreen-gif"/>
@@ -132,6 +132,9 @@ export default function Ensaios() {
                                 <p>Master em Depilação a Laser (50 horas)</p>
                                 <p>Atualização Científica e Técnica em Segurança e Higiene do Trabalho  (100 horas)</p>
                                 <p>Auricoloterapia para animais  (8 horas)</p>
+                                <p>Formação prática de empilhadora  (8 horas)</p>
+                                <p>Formação teórica de empilhadora  (8 horas)</p>
+                                <p>Curso AFF Queda Livre Acelerada  (8 horas)</p>
                                 <p>E sobrava-te uma hora para descansar!</p>
                             </div>
                         </div>
