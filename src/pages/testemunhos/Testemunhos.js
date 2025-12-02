@@ -79,6 +79,10 @@ export default function Testemunhos() {
                 <p>Gadget</p>
             </div>
             <div className="half-screen-section">
+                <h3>Primeira amizade verdadeira</h3>
+                <p>Gadget (Sóbrio) </p>
+            </div>
+            <div className="half-screen-section">
                 <h3>Companheirismo, uma pessoa que tá lá para te ajudar, que &quot;Got your back&quot;, ou seja penso
                     sempre no
                     companheirismo de preocupação para contigo e de te proteger</h3>
@@ -144,6 +148,26 @@ export default function Testemunhos() {
                     Portanto bem vinda ao grupo dos cotas e vai ser um prazer acompanhar a tuna ao teu lado agora ao teu
                     lado para os mais novos, um beijinho e parabéns por todo o teu percurso </h3>
                 <p>Gui (Sóbrio, creio)</p>
+            </div>
+            <div className="half-screen-section">
+                <h3>Tuna sem Dodô? What the fuck?É que eu sinto que tu és tipo, uma mãe galinha. Só que discreta, tu
+                    cuidas da tuna assim como se fosse a tua bebé com muito carinho, com muito amor, a proteger, mas
+                    atrofias também com o pessoal e acho que fazes muito bem, fazes lembrar aquele vine (procede a
+                    descrever este <a href="https://www.youtube.com/shorts/VRt16d94aR4">vine</a>). Tu atrofias com o pessoal e atrofias muito bem, agora quem é que vai atrofiar
+                    com o pessoal nos copos?Quem é que vai ser o last man standing? Vai ter de ser a tua linhagem? Um
+                    deles não se aguenta em pé, o outro começa às cabeçadas. Vá o remy até que aguenta mas pah o
+                    Borracha e o Visi ainda são os bacanos que aguentam mais pah. Agora como é que o pessoal vai seguir
+                    o exemplo? Tem de haver alguém a picar, a mostrar que não é só best friends for ever e unicórnios.
+                    Também é mas depois as vezes levas ali com um comentário, uma afrontadela, a gozar claramente e o
+                    pessoal fica ali e tu começaste a rir e a pessoa também todo nervosinho, é isso que vai faltar. Acho
+                    que vais ter de passar a tocha não sei a quem. Vou tentar adotar mas acho que não consigo tão bem .
+                    Mentira, acho que a catapulta é capaz de conseguir um pouquinho mas é preciso limar. Dodô obrigado
+                    genuinamente, obrigado por tudo. Diretamente e indiretamente sempre foste uma pessoa a seguir e
+                    continuas a ser e obrigado mesmo por tudo. Ainda não processei acho que ainda não é real acho que
+                    nem no Lisboa Eterna vai ser real, acho que vai ser so no festival que tu não fores. Acho que aí é
+                    que me vai bater e cair tudo em cima. é muito bittersweet ainda não sei lidar, fodase Dodô não
+                    desapareças</h3>
+                <p>Ding (Sóbrio, mas exausto)</p>
             </div>
         </div>
     );
