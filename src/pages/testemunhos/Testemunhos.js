@@ -175,6 +175,18 @@ export default function Testemunhos() {
                     desapareças</h3>
                 <p>Ding (Sóbrio, mas exausto)</p>
             </div>
+            <div className="half-screen-section">
+                <h3>Quando penso na Dodô lembro-me dos óculos que ela tinha quando entrámos na Tuna. Lembro-me do cão
+                    com ar jovem em Leiria. Lembro-me de ganhar uma maravilhosa vizinha na formação e da camaradagem :D
+                    Lembro-me do trabalho em equipa (#RemarNoMesmoSentido), lembro-me das cantorias e das harmonias,
+                    lembro-me de brindes e de jogos e quebra-cabeças, lembro-me das cumplicidades e das conversas,
+                    lembro-me de noites que se tornaram dia (literal e figurativamente), lembro-me das partidas de 1 de
+                    abril que não falhavam.
+                    Quando penso na Dodô vejo alguém que se envolve e que explora, que protege as suas pessoas, que está
+                    sempre disposto a alinhar em aventuras e que escolhe viver a vida de braços abertos
+                </h3>
+                <p>Pingu (Sóbria)</p>
+            </div>
         </div>
     );
 }
