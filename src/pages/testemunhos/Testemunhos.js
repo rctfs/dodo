@@ -196,7 +196,7 @@ export default function Testemunhos() {
                     Para além disso é inevitável lembrar me dos nossos jogos de beer pong. Que, para ficar registado,
                     ela perdeu a maioria. Ainda temos desforras para fazer (e que vamos fazer!)
                 </h3>
-                <p>Sebastião (Sóbri0)</p>
+                <p>Sebastião (Sóbrio)</p>
             </div>
         </div>
     );
