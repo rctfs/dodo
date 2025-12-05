@@ -187,6 +187,17 @@ export default function Testemunhos() {
                 </h3>
                 <p>Pingu (Sóbria)</p>
             </div>
+            <div className="half-screen-section">
+                <h3>Quando penso na Dodo acho que aquilo que me vem primeiro à cabeça é ela estar sempre randomly lá. Lá
+                    onde? Em festas, convívios, tudo. A quantidade de convívios de tunas ou lá na faculdade que do
+                    nada dou por mim a beber copos com o pessoal da Taiscte estando ela sempre lá é incrível!... ATÉ NO
+                    PAREDES DE COURA!
+
+                    Para além disso é inevitável lembrar me dos nossos jogos de beer pong. Que, para ficar registado,
+                    ela perdeu a maioria. Ainda temos desforras para fazer (e que vamos fazer!)
+                </h3>
+                <p>Sebastião (Sóbri0)</p>
+            </div>
         </div>
     );
 }
