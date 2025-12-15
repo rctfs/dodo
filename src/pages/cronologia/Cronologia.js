@@ -23,7 +23,6 @@ function Cronologia() {
                    easing={{enter: Theme.transitions.easing.easeOut}}
                    timeout={1500}>
                 <div>
-                    <h1 className="ano">Aqui vais ter de me ajudar um bocadinho a completar isto</h1>
                     <h1 className="ano">2015</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
