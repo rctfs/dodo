@@ -27,7 +27,7 @@ function Cronologia() {
                     <h1 className="ano">2015</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
-                            oppositeText="Outubro"
+                            oppositeText="24 de Outubro"
                             contentText="Primeiro Ensaio"
                         />
                         <TimelineItemWithPopper
@@ -105,6 +105,11 @@ function Cronologia() {
                             popperText="VIII Badaladas"
                         />
                         <TimelineItemWithPopper
+                            oppositeText="1 e 2 de Abril"
+                            contentText="Jurada no XXI Fortuna"
+                            popperText=""
+                        />
+                        <TimelineItemWithPopper
                             oppositeText="8 de Abril"
                             contentText="Pedido de Amadrinhamento do ÀBrás"
                             popperText="II Centaurus"
@@ -113,8 +118,13 @@ function Cronologia() {
                     <h1 className="ano">2023</h1>
                     <Timeline position="left">
                         <TimelineItemWithPopper
-                            oppositeText=""
-                            contentText="Não me estou a lembrar de nada desculpa :("
+                            oppositeText="10 Junho"
+                            contentText="Participação 30 anos Fortuna"
+                            popperText=""
+                        />
+                        <TimelineItemWithPopper
+                            oppositeText="16 Dezembro"
+                            contentText="Criação em AGO da Direção de Eventos"
                             popperText=""
                         />
                     </Timeline>
@@ -124,12 +134,6 @@ function Cronologia() {
                             oppositeText="16 de Fevereiro"
                             contentText="Pedido de Amadrinhamento do Visigodo"
                             popperText="XXII Fortuna"
-                        />
-                        <TimelineItemWithPopper
-                            oppositeText="26 de Fevereiro"
-                            contentText="Mítico CT onde foste exposta como má madrinha"
-                            popperText='“Ninguém me explicou como é que isto funciona” — ÀBrás'
-
                         />
                     </Timeline>
                     <h1 className="ano">2025</h1>
@@ -143,10 +147,6 @@ function Cronologia() {
                             oppositeText="12 de Março"
                             contentText="Pedido de Amadrinhamento do Borracha"
                             popperText="II Churasco TAISCTE"
-                        />
-                        <TimelineItemWithPopper
-                            oppositeText="20 de Junho"
-                            contentText="Primeiras novas passagens a Tuno"
                         />
                         <TimelineItemWithoutConnector
                             oppositeText="7 de Dezembro"
