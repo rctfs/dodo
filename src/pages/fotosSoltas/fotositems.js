@@ -177,7 +177,7 @@ const fotositems = [
     {
         id: "26",
         img: "https://res.cloudinary.com/davcmtvbd/image/upload/v1763931416/foto_geral_26.jpg",
-        height: 790,
+        height: 600,
         position: "50% 10%",
         bw: false
     },

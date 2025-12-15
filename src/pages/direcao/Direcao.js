@@ -54,6 +54,7 @@ export default function Direcao() {
                             <h4>Magíster: Ainanas</h4>
                             <h2>Vice-Coordenadora do DCI</h2>
                             <h4>Coordenadora: Juba</h4>
+                            <h2>Comissão Organizadora do Lisboa Eterna</h2>
                         </Step>
                         <Step>
                             <h1>Ano 2020/2021</h1>
